@@ -25,7 +25,7 @@ const Register = () => {
     <div className="auth-container">
 
       <div className="welcome-section">
-        <img src="/SalveHR_LOGO.jpeg" alt="SalveHRMS Logo" className="logo" />
+        <img src="SalveHR_LOGO.jpeg" alt="SalveHRMS Logo" className="logo" />
         <h2>WELCOME TO SALVE HRMS</h2>
         <p>Expert HR and Legal services for all businesses</p>
       </div>
