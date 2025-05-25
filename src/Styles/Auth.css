@@ -1,0 +1,65 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+.welcome-section {
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+.form-section {
+  width: 50%;
+  text-align: center;
+  padding: 20px;
+}
+
+.line {
+  background-color: gray;
+  width: 1px;
+  height: 300px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 20px;
+  color:rgb(6, 97, 6)
+}
+
+input {
+  display: block;
+  width: 80%;
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #414040;
+  border-radius: 5px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  box-shadow: 3px 3px gray;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.links {
+  margin-top: 10px;
+}
+
+.links a {
+  color: blue;
+  text-decoration: none;
+  margin: 5px;
+}

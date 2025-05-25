@@ -1,0 +1,22 @@
+/project-root
+│── /public
+│   ├── index.html
+│   ├── favicon.ico
+│   ├── assets/ (optional, for static images)
+│── /src
+│   ├── /assets          # Images, fonts, icons, etc.
+│   ├── /components      # Reusable UI components
+│   ├── /pages           # Full pages containing multiple components
+│   ├── /layouts         # Page layouts (e.g., Sidebar, Navbar, etc.)
+│   ├── /hooks           # Custom React hooks
+│   ├── /context         # Context API files (global state management)
+│   ├── /services        # API calls, utilities, and helper functions
+│   ├── /routes          # Centralized route management
+│   ├── /store           # Redux or any state management files
+│   ├── /styles          # Global styles (CSS/SCSS)
+│   ├── App.js
+│   ├── index.js
+│   ├── main.jsx (if using Vite)
+│── .gitignore
+│── package.json
+│── README.md
