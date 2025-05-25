@@ -11,7 +11,7 @@ import UserSupport from "./Pages/UserSupport";
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/Salve-HRMS">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/login" element={<Login />} />
